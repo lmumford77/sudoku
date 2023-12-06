@@ -1,2 +1,1 @@
-# sudoku
-Pygame-based sudoku game
+Welcome to my Sudoku game! It is written in Python and utilizes the Pygame module for an interactive experience. As a user, you can solve one of several randomly chosen sudoku boards. The object of the game is to fill in all empty squares such that each row, column, and 3x3 grid has only one of each number from 1 to 9. The game is timed and keeps track of the number of mistakes made. You are also able to keep track of temporary guesses for any square before committing to that guess. Sudoku has always been one of my favorite games, so I wanted to make my own!  
